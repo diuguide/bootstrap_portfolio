@@ -134,3 +134,42 @@
               </div>
             </div>
           </div>
+
+
+
+<div class="row-mt-1">
+        <div class="col">
+          <div class="input-group input-group-lg">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="inputGroup-sizing-lg">First:</span>
+            </div>
+            <input type="text" class="form-control" aria-label="your first name" aria-describedby="inputGroup-sizing-lg">
+          </div>
+        </div>      
+      </div>
+      <div class="row-mt-1">
+        <div class="col">
+          <div class="input-group input-group-lg">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="inputGroup-sizing-lg">Last:</span>
+            </div>
+            <input type="text" class="form-control" aria-label="your last name" aria-describedby="inputGroup-sizing-lg">
+          </div>
+        </div>      
+      </div>
+      <div class="row-mt-1">
+        <div class="col">
+          <div class="input-group input-group-lg">
+            <div class="input-group-prepend">
+              <span class="input-group-text" id="inputGroup-sizing-lg">Email:</span>
+            </div>
+            <input type="text" class="form-control" aria-label="your email" aria-describedby="inputGroup-sizing-lg">
+          </div>
+        </div>      
+      </div>
+      <hr>
+      <div class="row">
+        <div class="col">
+          <button type="button" class="btn btn-info" id="commentbutton">Submit!</button>
+        </div>  
+      </div>
