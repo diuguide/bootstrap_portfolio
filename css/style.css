@@ -28,3 +28,9 @@ a.nav-link {
     text-align: center;
     margin-bottom: 10px;
 }
+.card-body {
+    background-color: #f0f3bd;
+}
+.btn-btn-info {
+    background-color: #ee6c4d;
+}
