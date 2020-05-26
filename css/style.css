@@ -29,7 +29,8 @@ a.nav-link {
     margin-bottom: 10px;
 }
 .card-body {
-    background-color: #f0f3bd;
+    color: #f8f9fa;
+    background-color: #343a40;
 }
 .main-contact {
     color: #293241;
