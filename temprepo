@@ -109,3 +109,28 @@
     </div>
   </div>
 </main> 
+
+<div class="col-4">
+            <div class="card" style="width: 18rem;">
+              <div class="card-header">
+                <h2>Project:</h2>
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"></h5>
+                <p class="card-text">coming soon...</p>
+                <a href="#" class="btn btn-info">LINK</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-4">
+            <div class="card" style="width: 18rem;">
+              <div class="card-header">
+                <h2>Project:</h2>
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"></h5>
+                <p class="card-text">coming soon...</p>
+                <a href="#" class="btn btn-info">LINK</a>
+              </div>
+            </div>
+          </div>
