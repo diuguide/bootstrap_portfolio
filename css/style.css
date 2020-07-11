@@ -4,20 +4,13 @@
 .wholepage {
     background-color: #98c1d9;
 }
-.main {
-    color: #293241;
-    font-family: 'Raleway', sans-serif;
-    width: 80%;
+.container {
     margin: auto;
-    box-sizing: border-box;
-    background-color: #e0fbfc;
-    border-radius: 5px;
-    text-indent: 25px;
-    text-align: left;
-    padding: 10px;
-    padding-bottom: 50px;    
 }
-
+.card-img-top {
+    width: 300px;
+    height: 150px;
+}
 a.navbar-brand {
     font-family: 'Raleway', sans-serif;
     font-size: 30px;
@@ -29,9 +22,14 @@ a.nav-link {
     text-align: center;
     margin-bottom: 10px;
 }
+.card {
+    display: inline-flex;
+    width: 100%;
+}
 .card-body {
     color: #f0f3bd;
     background-color: #343a40;
+    
 }
 .main-contact {
     color: #293241;
@@ -44,17 +42,7 @@ a.nav-link {
     padding: 10px;
     padding-bottom: 50px;   
 }
-.main-portfolio {
-    color: #293241;
-    font-family: 'Raleway', sans-serif;
-    width: 80%;
-    margin: auto;
-    box-sizing: border-box;
-    background-color: #e0fbfc;
-    border-radius: 5px;
-    padding: 10px; 
-    padding-bottom: 50px;    
-}
+
 .row-mt-1 {
     margin: 5px;
 }
@@ -68,14 +56,4 @@ a.nav-link {
     text-align: center;
     font-size: 10px;
   }
-@media only screen and (min-width: 992px) {
-    .main {
-        width: 50%;
-    }
-    .main-contact {
-        width: 50%;
-    }
-    .main-portfolio {
-        width: 50%;
-    }
-}
+
